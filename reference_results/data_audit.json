@@ -1,0 +1,26 @@
+{
+  "files": {
+    "data/paired/train.tsv": "7ac50ca3d70890f80e11ee59955cdbfc43f26b5078d0603717817ab224d2af18",
+    "data/paired/dev.tsv": "4c2d8a70cbce23eba27fb1f0bb5043cf044811912435cf8d10c3ea6fc7a51363",
+    "data/paired/test.tsv": "9534b20850205c59015b313983cae7afb31c54c04ffcbd19cea7f1bce5011275"
+  },
+  "split_pairs": {
+    "train": 1707,
+    "dev": 245,
+    "test": 488
+  },
+  "cross_split_exact_overlap": {
+    "train_dev": 1,
+    "train_test": 0,
+    "dev_test": 0
+  },
+  "removed_training_pairs": [
+    273
+  ],
+  "effective_training_pairs": 1706,
+  "cross_split_pair_id_overlap": {
+    "train_dev": 0,
+    "train_test": 0,
+    "dev_test": 0
+  }
+}

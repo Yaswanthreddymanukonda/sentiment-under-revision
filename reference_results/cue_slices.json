@@ -1,0 +1,14 @@
+[
+  {
+    "slice": "negation cue",
+    "pairs": 460,
+    "original_pair_accuracy": 0.3978260869565217,
+    "augmented_pair_accuracy": 0.7847826086956522
+  },
+  {
+    "slice": "contrast cue",
+    "pairs": 364,
+    "original_pair_accuracy": 0.37362637362637363,
+    "augmented_pair_accuracy": 0.7637362637362637
+  }
+]

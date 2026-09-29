@@ -1,0 +1,8 @@
+# keep tsv bytes as-is so checksums still match on Windows
+data/paired/*.tsv -text
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.pdf binary
+*.png binary

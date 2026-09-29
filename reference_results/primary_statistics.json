@@ -1,0 +1,12 @@
+{
+  "primary": "LR bigrams, augmented minus original",
+  "pair_accuracy_difference": 0.3975409836065574,
+  "paired_bootstrap_95_ci": [
+    0.3483606557377049,
+    0.4487704918032787
+  ],
+  "bootstrap_replicates": 10000,
+  "improved_pairs": 214,
+  "worsened_pairs": 20,
+  "mcnemar_exact_two_sided_p": 3.44750646054717e-42
+}

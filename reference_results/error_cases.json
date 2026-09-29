@@ -1,0 +1,410 @@
+[
+  {
+    "category": "repaired",
+    "pair_id": 0,
+    "source_batch_id": 13,
+    "original_text": "If you haven't seen this, it's terrible. It is pure trash. I saw this about 17 years ago, and I'm still screwed up from it.",
+    "revised_text": "If you haven't seen this, it's incredible. It is pure gold. I saw this about 17 years ago, and I'm still hype about it.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 1,
+    "source_batch_id": 46,
+    "original_text": "being a NI supporter, it's hard to objectively review a movie glorifying ulster nationalists. characters who are hard to root for, typical heavy-handed anti-violence messages, and a predictable 'poetic justice' ending makes this an awkward watch...",
+    "revised_text": "being a NI supporter, it's easy to objectively review a movie glorifying ulster nationalists. characters who are painless to root for, typical heavy-handed anti-violence messages, and a unpredictable 'poetic justice' ending makes this an unforgettable watch...",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 3,
+    "source_batch_id": 169,
+    "original_text": "Really bad movie. Maybe the worst I've ever seen. Alien invasion, a la The Blob, without the acting. Meteorite turns beautiful woman into a host body for nasty tongue. Bad plot, bad fake tongue. Absurd comedy worth missing. Wash your hair or take out the trash.",
+    "revised_text": "Really good movie. Maybe the best I've ever seen. Alien invasion, a la The Blob, with crazy good acting. Meteorite turns beautiful woman into a host body for nasty tongue. Engaging plot, great tongue. Absurd comedy worth watching. Maybe don't wash your hair or take out the trash but take time out to watch this movie.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 5,
+    "source_batch_id": 243,
+    "original_text": "This movie was so bad that my i.q. went down about 40 points after seeing it. It made me wonder who could sit through the weeks it took to make it and think that it was worth it. It must of been some kind of personal favor to Van Damme.",
+    "revised_text": "This movie was so good that my i.q. went up about 40 points after seeing it. It made me wonder who couldn't sit through the weeks it took to make it and think that it wasn't worth it. It must of been some kind of personal favor of Van Damme.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 6,
+    "source_batch_id": 277,
+    "original_text": "I rated this a 3. The dubbing was as bad as I have seen. The plot - yuck. I'm not sure which ruined the movie more. Jet Li is definitely a great martial artist, but I'll stick to Jackie Chan movies until somebody tells me Jet's English is up to par.",
+    "revised_text": "I rated this a 5. The dubbing was as good as I have seen. The plot - wow. I'm not sure which made the movie more great. Jet Li is definitely a great martial artist, as good as Jackie Chan.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 10,
+    "source_batch_id": 301,
+    "original_text": "If this is the first of the \"Nemesis\" films that you have seen, then I strongly urge you to proceed no further. The sequels to \"Nebula\" prove to be no better...hard to believe considering this entry is bottom-of-the-barrel. This movie tries, but it's just not worth your time, folks. Take a nap instead.",
+    "revised_text": "If this is the first of the \"Nemesis\" films that you have seen, then I strongly urge you to proceed. The sequels to \"Nebula\" prove to be even better...hard to believe considering this entry is so excellent. This movie tries, and it's worth your time, folks. Don't take a nap instead.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 14,
+    "source_batch_id": 633,
+    "original_text": "Sean, you know I think that you are absolutely the greatest actor in the world, but I can't commend you for this. Comedy just isn't your strong suit.  However, it wasn't all your fault. Some of the stuff was just too hard to understand. Alfred Lynch did a decent job, but you gotta wonder where the lines came from from the beginning.  Once again, Sean... I apologize.",
+    "revised_text": "Sean, you know I think that you are absolutely the greatest actor in the world, I commend you for this. Comedy is just your strong suit.  However, it wasn't all your effort. Some of the stuff was just so easy to understand. Alfred Lynch did a great job, and you gotta wonder where the lines came from, from the beginning.  Once again, Sean... amazing.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "repaired",
+    "pair_id": 18,
+    "source_batch_id": 904,
+    "original_text": "Wow, what a snoozer. Definately one of bacon's worst films. The bad acting coupled with a formulatic, if not incredulous, script make me yearn for time I wasted on viewing this on cable television back. Not really much I can say about it, a basketball scout gets too attached to the person he's recruiting, who happens to belong to a tribe that happens to be on the verge of war which happens to be decided by (spoiler) a basketball game. Grade: F+",
+    "revised_text": "Wow, what a film. Definately one of bacon's best films. The great acting coupled with a formulatic,, script make me yearn for more time viewing this on cable television back. Not really much I can say about it, a basketball scout gets too attached to the person he's recruiting, who happens to belong to a tribe that happens to be on the verge of war which happens to be decided by (spoiler) a basketball game. Grade: A+",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      1
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 4,
+    "source_batch_id": 213,
+    "original_text": "I read the novel some years ago and I liked it a lot. when I saw the movie I couldn't believe it... They changed everything I liked about the novel, even the plot. I wonder what did Isabel Allende (author) say about the movie, but I think it sucks!!!",
+    "revised_text": "I read the novel some years ago and I liked it a lot. when I saw the movie I couldn't believe it... They changed nothing I liked about the novel, not even the plot. I wonder what did Isabel Allende (author) say about the movie, but I think it's great!!!",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 9,
+    "source_batch_id": 300,
+    "original_text": "Greenaway seems to have a habit of trying deliberately to disgust his viewers. This film opens with incest--and purposeless, meaningless, casual incest at that. That's Greenaway's big problem. He prefers parlor tricks to shock over actually doing anything meaningful. Technical skill isn't enough. He's just a bit perverse for the sake of perversity.",
+    "revised_text": "Greenaway seems to have a habit of trying hard to entertain his viewers. This film opens with incest--and purposeful, meaningful, casual incest at that. That's Greenaway's focus. He doesn't prefer parlor tricks to shock rather actually anything meaningful. Technical skill isn't enough. He's a bit perverse for the sake of perversity but it works out well.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 35,
+    "source_batch_id": 1319,
+    "original_text": "OK, look at the title of this film.  the title says it all right? the title is great... i mean, a lot of things should come into your head after readin it. in fact, you might be extremely anxious to see it.  well, sadly, you won't see any of that.  just a bunch of bad actors, some blood spilling, some hot chicks, and some lesbo action.  oh, well, i think there are about 5-10 minutes of zombies and vampires indeed...  get away from this if you want to see a good movie. else get it.",
+    "revised_text": "OK, look at the title of this film.  the title says it all right? the title is great... i mean, a lot of things should come into your head after readin it. in fact, you might be extremely anxious to see it.  well, fortunately, you will see all of that.  a bunch of great actors, some blood spilling, some hot chicks, and some lesbo action.  oh, well, i think there are about 5-10 minutes of zombies and vampires indeed...  watch this if you want to see a good movie",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 72,
+    "source_batch_id": 2891,
+    "original_text": "I bet you Gene Simmons and Vincent Pastore negotiated in advance how many episodes they would be willing to appear in. Isn't just too contrived for Gene to switch to the ladies team and then throw himself on his sword? And Big Pussy? What the hell was that \"look at me, I'm a rat!\" double episode crap? All that clich\u00e9 mafia banter- COME ON! The big names voted off just happened to already have received money for their charity and got a custom tailored exit. Hmm... This is not reality but staged drama! Mark Burnett's other show, \"Survivor\" also raised questions for me when Johnny Fairplay stages his departure when he clearly had just a short time before his child is to be born.  Yuk!",
+    "revised_text": "I bet you Gene Simmons and Vincent Pastore negotiated in advance how many episodes they would be willing to appear in. Isn't just too contrived for Gene to switch to the ladies team and then throw himself on his sword? And Big Pussy? What the hell was that \"look at me, I'm a rat!\" double episode? All that mafia banter- WOW! The big names voted off just happened to already have received money for their charity and got a custom tailored exit. Hmm... This is not reality but staged drama and I am living for it! Mark Burnett's other show, \"Survivor\" also raised questions for me when Johnny Fairplay stages his departure when he clearly had just a short time before his child is to be born. A must-see! 8/10",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 74,
+    "source_batch_id": 2999,
+    "original_text": "If you liked watching Mel Gibson in Million Dollar Hotel then you might enjoy watching Burt Reynolds in yet another film so bad it could never be distributed. I can only attest to the DVD version so maybe the VHS version is better quality wise but the movies night and dark scenes have been so poorly done that everythings seems red. I first thought my DVD players was messed up. It wasn't. If you insist on watching it I recommend you adjust the color on your TV until it is black and white. If you don't you will never be able to get through the film. If you do it will simply remind you of a poor film students attempt to revist the style of Pulp Fiction.",
+    "revised_text": "If you liked watching Mel Gibson in Million Dollar Hotel then you might enjoy watching Burt Reynolds in yet another film so revolutionary it could never be distributed. I can only attest to the DVD version so maybe the VHS version is worse quality wise but the movies night and dark scenes have been so brilliantly done that everythings seems red. I first thought my DVD players was messed up. It wasn't. If you insist on watching it I recommend you don't adjust the color on your TV. If you do you will never be able to see the film as it was intended. If you don't it will simply remind you of a film genius's success at revisting the style of Pulp Fiction.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 135,
+    "source_batch_id": 5344,
+    "original_text": "I have two good things to say about this film: the scenery is beautiful and Peter Falk gives a good performance (considering what he had to work with in terms of dialog and direction). However, that said, I found this film extremely tiresome. Watching paint dry would have been more entertaining. It seemed much longer than 97 minutes. Beginning with opening sequence, where everyone is talking over each other and Paul Reiser is repeating everything that's said to him on the phone, the movie is annoying. The film is filled with clich\u00e9s and shtick, not to mention endless incidents of audible flatulence by Falk. Also, the director seems to have had difficulty deciding whether to aim for laughs or tears. There are some sequences that are touching, but they're all played for laughs. If schmaltzy, sentimental, and \"cute\" appeal to you, you'll love it. But if you were hoping for something with more substance, see a different movie.",
+    "revised_text": "I have so many good things to say about this film: the scenery is beautiful and Peter Falk gives a good performance (especially considering the great things he had to work with in terms of dialog and direction). I found this film extremely engaging. Watching paint dry would have been far less entertaining. It seemed much quicker than 97 minutes. Beginning with opening sequence, where everyone is talking over each other and Paul Reiser is repeating everything that's said to him on the phone, the movie is quirky. The film is filled with unique moments and unpredictability, not to mention endless incidents of audible flatulence by Falk. Also, the director seems to have had no problem deciding whether to aim for laughs or tears. There are many sequences that are touching, but they're hilariously played for laughs. If sincere, sentimental, and \"cute\" appeal to you, you'll love it. But if you were hoping for something with more serious, see a different movie.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 141,
+    "source_batch_id": 5582,
+    "original_text": "Exceptionally horrible tale that I can barely put into words. The best part of the movie was when one of the murder victims turns up at the end, alive and well, only to be massacred again. There is the chance that I missed some crucial plot elements since I may have been in a slight coma during the time this baby was on. The box that the movie comes in shows scenes that are never even in the film. I was lured in by the crude images of bondage torture and promises of a 'Euro-trash, sexy horror flick.' I get the feeling this was the budget version and about one quarter of the film was left out. All the good stuff more than likely. I got the PG-13 addition that made about as much sense as the end to the new 'Planet of the Apes' movie. Watch this one with a friend and a bottle of the hard stuff. You'll need it.",
+    "revised_text": "Exceptionally good tale that I can barely capture in words. The best part of the movie was when one of the murder victims turns up at the end, alive and well and then succumbs to a surprise ending. The plot was was above average and took many shocking twists and turns. The box that the movie comes in really captures the essence of the film. I was lured in by the crude images of bondage torture and promises of a 'Euro-trash, sexy horror flick.' And, I was not disappointed as this film offered all of this and more. All the good stuff more than likely. I got the PG-13 edition that was every bit as good as the new 'Planet of the Apes' movie. Watch this one with a friend and a bottle of wine. You'll enjoy it.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "regressed",
+    "pair_id": 158,
+    "source_batch_id": 6299,
+    "original_text": "I attempted to watch this film without being able to really sit through it, for while it is suppose to have a \"good\" message; the problem is that it is obviously produced according to one particular interpretation of scripture. An interpretation, in my opinion, will mislead a lot of people. In addition, I am a movie maniac and the acting in this film was completely unacceptable. Never before had I wished for a negative score to rate a movie. So, if you wish to be preached to incessantly by those without authority, then by all means, get this film. This comment is also a warning to people who like or love scifi, because the title will deceive a lot of people as well. This was an unfortunate film, because the basic idea had possibilities and those possibilities were squandered. The film's only redeemable quality is that it did make me realize that the character in the \"Time Machine\" probably should have shown a little more moral outrage at the odd behavior by those in his future.",
+    "revised_text": "I attempted to watch this film and was able to really sit through it, for it is giving  a \"good\" message and the great thing is that it is produced according to the one particular and correct interpretation of scripture. An interpretation, in my opinion, will not mislead anyone. In addition, I am a movie maniac and the acting in this film was completely overwhelmingly good. Never before had I wished for a higher than 10 score to rate a movie. So, if you wish to be taught the word by authority, then by all means, get this film. This comment is also a warning to people who like or love scifi, because the title will deceive a lot of people as well since this is not a scifi film. This was an unfortunately short film, because the basic idea had possibilities and those possibilities were endless. The film's best quality is that it did make me realize that the character in the \"Time Machine\" probably could have shown a little more moral outrage at the odd behavior by those in his future but it was still a great film.\"",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 8,
+    "source_batch_id": 289,
+    "original_text": "this is a great movie. I love the series on tv and so I loved the movie. One of the best things in the movie is that Helga finally admits her deepest darkest secret to Arnold!!! that was great. i loved it it was pretty funny too. It's a great movie! Doy!!!",
+    "revised_text": "this is a great movie. I love the series on tv and so I loved the movie. One of the best things in the movie is that Helga finally admits her deepest darkest secret to Arnold!!! that was great. i loved it it was pretty funny too. It's a great movie to watch! Doy!!!",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 16,
+    "source_batch_id": 686,
+    "original_text": "Man, even Plan 9 From Outer Space is better than this movie. This flick doesn't have enough plot for half an hour, yet they managed to extend it for an eternity of more than an hour. Jet Li and Corey Yuen are pretty good, specially in those exaggerated fight scenes, but stuff like The Legend of Fong Sai Yuk is much better than this sorry thing that would be better left unmade.",
+    "revised_text": "Man, even Plan 9 From Outer Space is worse than this movie. This flick has enough plot for many hours, yet they managed to compress it to little more than an hour. Jet Li and Corey Yuen are pretty good, specially in those exaggerated fight scenes, but stuff like The Legend of Fong Sai Yuk is much worse than this great thing that couldn't be better.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 26,
+    "source_batch_id": 1104,
+    "original_text": "This movie has some beautiful sets and Albert Finney does a great job as the ruthless father. The movie fails because Jennifer Jason Leigh is too jumpy as the daughter and is no match whatever for Olivia De Havilland's far more nuanced, mature rendering in The Heiress (1949). The film's feminist-leaning conclusion also goes against the austere conclusion of the novel, Washington Square, whose author, Henry James, savagely parodied feminism in some of his other novels. As a fan of old Hollywood and great literature, I found this movie very disappointing.",
+    "revised_text": "This movie has some really beautiful sets and Albert Finney doe an amazing job as the ruthless father. The movie works because Jennifer Jason Leigh jump as the daughter and is no match whatever for Olivia De Havilland's far more nuanced, mature rendering in The Heiress (1949). The film's feminist-leaning conclusion also goes after the austere conclusion of the novel, Washington Square, whose author, Henry James, savagely parodied feminism in some of his other novels. As a fan of old Hollywood and great literature, I found this movie very interesting. ",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      1,
+      1
+    ],
+    "augmented_pred": [
+      1,
+      1
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 36,
+    "source_batch_id": 1328,
+    "original_text": "I simply could not finish this movie. I tuned out after what I would say is my nomination for the most wretched attempt at sexual suggestion award: a scene in which Pia Zadora, at a picnic, stands between two boys who want her. One (the good boy) pleads for her to see the error of her ways. The other (the bad boy) simply asks if she'd like a hot dog, which he then holds out for her. At crotch level. I hope I'm not spoiling anything to say she turns, and takes the hot dog, with a smile. Just pathetic.",
+    "revised_text": "I simply could not wait to finish this movie, it was that good! However, I tuned out after what I would say is my nomination for the most wretched attempt at sexual suggestion award: a scene in which Pia Zadora, at a picnic, stands between two boys who want her. One (the good boy) pleads for her to see the error of her ways. The other (the bad boy) simply asks if she'd like a hot dog, which he then holds out for her. At crotch level. I hope I'm not spoiling anything to say she turns, and takes the hot dog, with a smile. Just pathetic, but somehow the movie ended up redeeming itself. ",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 40,
+    "source_batch_id": 1378,
+    "original_text": "My Favorite part was when the credits started to roll. I wish I could give it a .0000000000001 out of 10. I really wish I had that Hour and thirty minutes back. Don't waste your money or time on it. I really could have watched grass grow and felt better after wards.  Nadia was really pretty and I hope the movie didn't destroy her career. But she chose to be in it.  All in all it sucked more than any other movie has sucked. More than Kazaam and Glitter combined. That's saying something.  Don't  Do  it!!!!",
+    "revised_text": "The worst part was when the credits started to roll. I wish I could give it a 11 out of 10. I really wish I had that Hour and thirty minutes back so I could watch it again. You won't waste your money or time on it.  Nadia was really pretty and I hope the movie helped her career. I'm glad she chose to be in it.  All in all it better than any other movie. More than Kazaam and Glitter combined. That's saying something.  Just  Do  it!!!!",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 42,
+    "source_batch_id": 1419,
+    "original_text": "Please, even if you are in the worst of the moods, refrain from watching this flick.   I don't think whether anything was right with this movie at all. On a friend's recommendation I watched this and I literally flushed 1h and 48 min of my life down the closet. Poor acting, stupid direction, weak storyline and pathetic action sequences - and when you blend this together you get \"Double Impact\". Even least of the expectations were not met.   I guess I did learn one thing - Never watch Van Damme action flicks. They are pure wastage of time !",
+    "revised_text": "Please, even if you are in the worst of the moods, go ahead and watch this flick.   I don't think anything was wrong with this movie at all. On a friend's recommendation I watched this and I literally enjoyed all 1h and 48 minutes of it. Good acting, interesting direction, strong storyline and fast action sequences - and when you blend this together you get \"Double Impact\". Even the least of expectations were met.   I guess I did learn one thing - Never pass on Van Damme action flicks. They are pure adrenaline !",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 48,
+    "source_batch_id": 1751,
+    "original_text": "I am oh soooo glad I have not spent money to go to the cinema on it :-). It is nothing more than compilation of elements of few other classic titles like The Thing, Final Fantasy, The Abyss etc. framed in rather dull and meaningless scenario. I really can not figure out what was the purpose of creating this movie - it has absolutely nothing new to offer in its storyline which additionally is also senseless. Moreover there is nothing to watch - the FX'es look like there were taken from a second hand store, you generally saw all of them in other movies. But it is definitely a good lullaby.",
+    "revised_text": "I am oh soooo glad I have not spent money to go to the cinema on it :-). It is nothing more than compilation of elements of few other classic titles like The Thing, Final Fantasy, The Abyss etc. framed in rather dull and meaningless scenario. I really can not figure out what was the purpose of creating this movie - it has absolutely nothing new to offer in its story line which additionally is also senseless. Moreover there is nothing to watch - the FX'es look like there were taken from a second hand store, you generally saw all of them in other movies. But it is definitely a good lullab",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  },
+  {
+    "category": "still_wrong",
+    "pair_id": 68,
+    "source_batch_id": 2750,
+    "original_text": "Pretty crazy whodunit featuring an all black cast trying to figure out who murdered the philandering trumpet player who was just about to go to Hollywood to Make It Big. Was it his wife? His Girlfriend? His Would-Be-Girlfriend? Her Father? His Butler? The newspaper guy? Who knows? And who cares? The result of this is just a little underwhelming, and the actors here don't really get me in a mood to care one way or another finding out. Why snake venom as a weapon? Who knows? Who cares? The music in this is alright, but there's little of it, and most of it is pretty \"let's get this over with\" This isn't worthy of your time. There are better all-black casted movies out there.",
+    "revised_text": "Pretty crazy whodunit featuring an all black cast trying to figure out who murdered the philandering trumpet player who was just about to go to Hollywood to Make It Big. Was it his wife? His Girlfriend? His Would-Be-Girlfriend? Her Father? His Butler? The newspaper guy? Who knows? And I care! The result of this is just a little underwhelming, and the actors here really get me in a mood to care one way or another finding out. Why snake venom as a weapon? Who knows? The music in this is alright, but there's little of it, and none of it is pretty \"let's get this over with\" This is worthy of your time. There are worse all-black casted movies out there.",
+    "original_label": 0,
+    "revised_label": 1,
+    "baseline_pred": [
+      0,
+      0
+    ],
+    "augmented_pred": [
+      0,
+      0
+    ]
+  }
+]
